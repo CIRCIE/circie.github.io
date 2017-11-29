@@ -1,10 +1,10 @@
 # Site settings
-title: CSecLab
-email: info@csec.it
-description: "Computer Security Lab - UniGe"
+title: CIRCIE
+email: info@circie.unige.it
+description: "CIRCIE - UniGe"
 baseurl: ""
-url: "http://cseclab-new.herokuapp.com"
-github_username:  CSecLab
+url: "http://circie.unige.it"
+github_username:  CIRCIE
 
 # Build settings
 markdown: kramdown
