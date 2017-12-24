@@ -5,20 +5,47 @@ layout: page
 
 # Staff
 
-* [Alessandro Armando](alessandro_armando)
-* [Gabriele Costa](gabriele_costa)
-* Giovanni Lagorio
-* [Alessio Merlo](alessio_merlo)
+* [Alessandro Armando](https://csec.it/people/alessandro_armando)
+* [Giovanni Adorni](https://unige.it/staff/cerca.php?cognome=Giovanni%20Adorni)
+* [Marco Baglietto](https://unige.it/staff/cerca.php?cognome=Marco%20Baglietto)
+* [Raffaele Bolla](https://unige.it/staff/cerca.php?cognome=Raffaele%20Bolla)
+* [Giovanni Chiola](https://unige.it/staff/cerca.php?cognome=Giovanni%20Chiola)
+* [Paola Girdinio](https://unige.it/staff/cerca.php?cognome=Paola%20Girdinio)
+* [Giovanni Lagorio](https://csec.it/people/giovanni_lagorio)
+* [Mario Marchese](https://unige.it/staff/cerca.php?cognome=Mario%20Marchese)
+* [Mario Marchesoni](https://unige.it/staff/cerca.php?cognome=Mario%20Marchesoni)
+* [Stefano Massucco](https://unige.it/staff/cerca.php?cognome=Stefano%20Massucco)
+* [Alessio Merlo](https://csec.it/people/alessio_merlo)
+* [Andrea Morini](https://unige.it/staff/cerca.php?cognome=Andrea%20Morini)
+* [Mario Nervi](https://unige.it/staff/cerca.php?cognome=Mario%20Nervi)
+* [Luca Oneto](https://unige.it/staff/cerca.php?cognome=Luca%20Oneto)
+* [Paolo Pinceti](https://unige.it/staff/cerca.php?cognome=Paolo%20Pinceti)
+* [Renato Procopio](https://unige.it/staff/cerca.php?cognome=Renato%20Procopio)
+* [Michela Robba](https://unige.it/staff/cerca.php?cognome=Michela%20Robba)
+* [Mansueto Rossi](https://unige.it/staff/cerca.php?cognome=Mansueto%20Rossi)
+* [Federico Silvestro](https://unige.it/staff/cerca.php?cognome=Federico%20Silvestro)
+* [Armando Tacchella](https://unige.it/staff/cerca.php?cognome=Armando%20Tacchella)
+* [Sandro Zappatore](https://unige.it/staff/cerca.php?cognome=Sandro%20Zappatore)
+* [Rodolfo Zunino](https://unige.it/staff/cerca.php?cognome=Rodoldo%20Zunino)
 
+# Ph.D. Students and PostDocs
 
-# Ph.D. Students, Collaborators and Student Members
+* [Simone Aonzo](https://csec.it/people/simone_aonzo)
+* [Luca Demetrio](https://csec.it/people/luca_demetrio)
+* [Gianmarco Maragliano]()
+* [Giuseppina Mùrino]()
+* [Enrico Russo](https://csec.it/people/enrico_russo)
+* [Giovanna Sissa]()
+* [Luis Ramon Vaccaro](https://unige.it/staff/cerca.php?cognome=Luis%20Ramon%20Vaccaro)
+* [Andrea Valenza](https://csec.it/people/andrea_valenza)
 
-* [Simone Aonzo](simone_aonzo)
-* Enrico Russo
-* [Andrea Valenza](andrea_valenza)
-* [Luca Demetrio](luca_demetrio)
+# Technologists
 
-# External Members
+* [Lorenzo Ivaldi](https://unige.it/staff/cerca.php?cognome=Lorenzo%20Ivaldi)
 
+# External Collaborators
+
+* [Gabriele Costa](https://csec.it/people/gabriele_costa) ([IMT Lucca](https://www.imtlucca.it))
 * Gabriel Claudiu Georgiu ([Talos Security](http://www.talos-sec.com))
 * Luca Verderame ([Talos Security](http://www.talos-sec.com))
+
