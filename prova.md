@@ -1,7 +1,0 @@
----
----
-
-# Prova
-
-Pagina di prova
-
