@@ -5,13 +5,13 @@ layout: page
 
 # Staff
 
-* [Alessandro Armando](https://csec.it/people/alessandro_armando)
 * [Giovanni Adorni](https://unige.it/staff/cerca.php?cognome=Giovanni%20Adorni)
+* [Alessandro Armando](https://csec.it/people/alessandro_armando) (Deputy Director)
 * [Marco Baglietto](https://unige.it/staff/cerca.php?cognome=Marco%20Baglietto)
 * [Raffaele Bolla](https://unige.it/staff/cerca.php?cognome=Raffaele%20Bolla)
 * [Giovanni Chiola](https://unige.it/staff/cerca.php?cognome=Giovanni%20Chiola)
 * [Federico Delfino](https://unige.it/staff/cerca.php?cognome=Federico%20Delfino)
-* [Paola Girdinio](https://unige.it/staff/cerca.php?cognome=Paola%20Girdinio)
+* [Paola Girdinio](https://unige.it/staff/cerca.php?cognome=Paola%20Girdinio) (Director)
 * [Giovanni Lagorio](https://csec.it/people/giovanni_lagorio)
 * [Mario Marchese](https://unige.it/staff/cerca.php?cognome=Mario%20Marchese)
 * [Mario Marchesoni](https://unige.it/staff/cerca.php?cognome=Mario%20Marchesoni)
