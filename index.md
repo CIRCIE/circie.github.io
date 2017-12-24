@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Computer Security Laboratory
+title: Interdipartimental Research Center on the Cybersecurity of Electrical Infrastructures
 ---
 
 <!-- ![The CSecLab logo should be here :( ](/pics/logo.png) -->
 
-# [DIBRIS](http://www.dibris.unige.it/en) - [University of Genova](http://www.unige.it/en)
+Welcome to the Interdipartimental Research Center on the Cybersecurity of Electrical Infrastructure (Centro Interdipartimentale di Ricerca sulla Cybersecurity delle Infrastrutture Elettriche, CIRCIE) of the University of Genova.   CIRCIE combines the expertise and skills of researchers working at the edge the Electrical Engineering and the Cybersecurity research areas to jointly tackle the challenge of protecting electrical infrastructures (e.g. electric grids) from cyber threaths.
 
-The Computer Security Lab (CSecLab), hosted at DIBRIS, University of Genoa, has been founded in 2014. The mission of the lab is to bring together researchers, students and practitioners interested in Computer Security. The main research topics of the lab are Mobile and Web Security.
-
-# CSecLab is part of the Cyber Security National Laboratory 
-![The Laboratorio Nazionale logo should be here :( ](/pics/labo-naz-logo.png)
