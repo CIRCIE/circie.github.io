@@ -10,6 +10,7 @@ layout: page
 * [Marco Baglietto](https://unige.it/staff/cerca.php?cognome=Marco%20Baglietto)
 * [Raffaele Bolla](https://unige.it/staff/cerca.php?cognome=Raffaele%20Bolla)
 * [Giovanni Chiola](https://unige.it/staff/cerca.php?cognome=Giovanni%20Chiola)
+* [Federico Delfino](https://unige.it/staff/cerca.php?cognome=Federico%20Delfino)
 * [Paola Girdinio](https://unige.it/staff/cerca.php?cognome=Paola%20Girdinio)
 * [Giovanni Lagorio](https://csec.it/people/giovanni_lagorio)
 * [Mario Marchese](https://unige.it/staff/cerca.php?cognome=Mario%20Marchese)
@@ -29,7 +30,6 @@ layout: page
 * [Rodolfo Zunino](https://unige.it/staff/cerca.php?cognome=Rodoldo%20Zunino)
 
 # Ph.D. Students and PostDocs
-
 * [Simone Aonzo](https://csec.it/people/simone_aonzo)
 * [Luca Demetrio](https://csec.it/people/luca_demetrio)
 * [Gianmarco Maragliano]()
@@ -40,8 +40,10 @@ layout: page
 * [Andrea Valenza](https://csec.it/people/andrea_valenza)
 
 # Technologists
-
 * [Lorenzo Ivaldi](https://unige.it/staff/cerca.php?cognome=Lorenzo%20Ivaldi)
+
+# Admin Staff
+* [Daniela Zucchiatti](https://unige.it/staff/cerca.php?cognome=Daniela%20Zucchiatti)
 
 # External Collaborators
 
