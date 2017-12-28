@@ -5,18 +5,5 @@ title: Projects
 
 # Research Projects
 
-## International Projects
-
-- **[SPaCIoS Project](http://www.spacios.eu)**, Project no. 257876, FP7-ICT-2009-5, ICT-2009.1.4: Trustworthy ICT, funded by EC. 
-
-## National Projects
-
-- **[Smart Intelligent and Eco-friendly Mobility Project](http://www.s3lab.polito.it/progetti/progetti_in_corso/mie)**, funded by the Italian Ministry of Education, University and Research (MIUR). 
-- **[PLUG-IN Project](http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-55/plug-in)**, funded by the Italian Ministry of Education, University and Research (MIUR). 
-- **[Security Horizons](http://people.unica.it/bart/2012/10/24/security-horizons/)** (PRIN Project no. 2010XSEMLC), funded by the Italian Ministry of Education, University and Research (MIUR). 
-- **[Security and Cloud Computing Project](https://sites.google.com/a/manydesigns.com/cloud_security/)**, POR Liguria, funded by Liguria Region. 
-- **[SINTESIS Project](http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-54/sintesis)**, funded by the Italian Ministry of Education, University and Research (MIUR). 
-
-# Reports
-
-- [Mobile Banking Applications 2017](report-banking-app)
+- [FilieraSicura](http://www.filierasicura.it) (Securing the Supply Chain of Domestic Critical Infrastructures from Cyber Attacks) funded by CISCO.  Partner institutions: U. of Rome "La Sapienza" (coordinator), U. of Genova, U. of Napoli ``Federico II'', U of Trento, U. of Venice "Ca' Foscari", Politecnico di Milano, Politecnico di Torino, IMT School for Advanced Studies Lucca. Duration: 36 months, starting on January, 2017.
+- Advanced Research Workshop - ``New Generation CERT: from Response to Readiness - Strategy and Guidelines'', to be held at the School of Telecommunications of the Italian Armed Forces of Chiavari (Italy), March 28-30, 2017. Co-Directors: Alessandro Armando and Marc Henauer (Reporting and Analysis Centre for Information, Bern, Switzerland). Funded by NATO in the context of the NATO Science for Peace and Security (SPS) Programme. 
