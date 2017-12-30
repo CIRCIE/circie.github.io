@@ -1,5 +1,5 @@
 ---
-title: People
+title: Teaching
 layout: page
 ---
 
