@@ -41,6 +41,8 @@ layout: page
 
 # Technologists
 * [Lorenzo Ivaldi](https://unige.it/staff/cerca.php?cognome=Lorenzo%20Ivaldi)
+* [Luca Barillari](https://unige.it/staff/cerca.php?cognome=Luca%20Barillari)
+
 
 # Admin Staff
 * [Daniela Zucchiatti](https://unige.it/staff/cerca.php?cognome=Daniela%20Zucchiatti)
