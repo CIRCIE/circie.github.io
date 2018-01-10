@@ -3,7 +3,7 @@ title: Teaching
 layout: page
 ---
 
-CIRCIE personnel teach in the following undergraduate and post graduate courses.
+CIRCIE personnel teach in undergraduate and post graduate courses.
 
 # Undergraduate
 
@@ -13,4 +13,11 @@ CIRCIE personnel teach in the following undergraduate and post graduate courses.
 
 # Postgraduate
 
-* [Postgraduate Master in Cybersecurity and Critical Infrastructure Protection](https://www.mastercybersecurty.it)
+* [Postgraduate Master in Cybersecurity and Critical Infrastructure Protection (Master Universitario di Secondo Livello in Cybersecurity e Protezione delle Infrastrutture Critiche)](https://www.mastercybersecurty.it)
+
+CIRCIE personnel is also promoting Cybersecurity exercises and challenges:
+
+* [Boeing-UNIGE Scholarship Project](http://csec.it/events/boeing-ctf/index), funded by Boeing Company. 
+* [CyberChallenge.it](https://cyberchallenge.it/venue/unige)
+
+
