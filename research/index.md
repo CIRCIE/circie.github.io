@@ -4,4 +4,4 @@ title: Research
 ---
 
 - Cybersecurity and Resilience of Industrial Control Systems
-- Security and Resilience by design for Smart Electrical Grids
+- Security and Resilience by Design for Smart Electrical Grids
