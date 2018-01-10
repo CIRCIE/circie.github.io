@@ -6,6 +6,7 @@ layout: page
 # Staff
 
 * [Giovanni Adorni](https://unige.it/staff/cerca.php?cognome=Giovanni%20Adorni)
+* [Davide Anguita](https://unige.it/staff/cerca.php?cognome=Davide%20Anguita)
 * [Alessandro Armando](https://csec.it/people/alessandro_armando) (Deputy Director)
 * [Marco Baglietto](https://unige.it/staff/cerca.php?cognome=Marco%20Baglietto)
 * [Raffaele Bolla](https://unige.it/staff/cerca.php?cognome=Raffaele%20Bolla)
