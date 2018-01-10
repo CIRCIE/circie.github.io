@@ -33,7 +33,7 @@ layout: page
 * [Simone Aonzo](https://csec.it/people/simone_aonzo)
 * [Luca Demetrio](https://csec.it/people/luca_demetrio)
 * [Gianmarco Maragliano]()
-* [Giuseppina Mùrino]()
+* [Giuseppina Mùrino](http://www.dibris.unige.it/murino-giuseppina)
 * [Enrico Russo](https://csec.it/people/enrico_russo)
 * [Giovanna Sissa]()
 * [Luis Ramon Vaccaro](https://unige.it/staff/cerca.php?cognome=Luis%20Ramon%20Vaccaro)
