@@ -9,6 +9,7 @@ layout: page
 * [Alessandro Armando](https://csec.it/people/alessandro_armando) (Deputy Director)
 * [Marco Baglietto](https://unige.it/staff/cerca.php?cognome=Marco%20Baglietto)
 * [Raffaele Bolla](https://unige.it/staff/cerca.php?cognome=Raffaele%20Bolla)
+* [Stefano Bracco](https://unige.it/staff/cerca.php?cognome=Stefano%20Bracco)
 * [Giovanni Chiola](https://unige.it/staff/cerca.php?cognome=Giovanni%20Chiola)
 * [Federico Delfino](https://unige.it/staff/cerca.php?cognome=Federico%20Delfino)
 * [Paola Girdinio](https://unige.it/staff/cerca.php?cognome=Paola%20Girdinio) (Director)
