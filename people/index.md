@@ -31,6 +31,9 @@ layout: page
 * [Sandro Zappatore](https://unige.it/staff/cerca.php?cognome=Sandro%20Zappatore)
 * [Rodolfo Zunino](https://unige.it/staff/cerca.php?cognome=Rodoldo%20Zunino)
 
+# Senior Research Fellows
+* [Giovanna Sissa]()
+
 # Ph.D. Students and PostDocs
 * [Simone Aonzo](https://csec.it/people/simone_aonzo)
 * [Luca Demetrio](https://csec.it/people/luca_demetrio)
