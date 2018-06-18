@@ -32,7 +32,7 @@ layout: page
 * [Rodolfo Zunino](https://unige.it/staff/cerca.php?cognome=Rodoldo%20Zunino)
 
 # Senior Research Fellows
-* [Giovanna Sissa]()
+* [Giovanna Sissa](https://unige.it/staff/persone/rdn/SQYNDVNGAgULAFBI)
 
 # Ph.D. Students and PostDocs
 * [Simone Aonzo](https://csec.it/people/simone_aonzo)
@@ -40,7 +40,6 @@ layout: page
 * [Gianmarco Maragliano]()
 * [Giuseppina Mùrino](http://www.dibris.unige.it/murino-giuseppina)
 * [Enrico Russo](https://csec.it/people/enrico_russo)
-* [Giovanna Sissa]()
 * [Luis Ramon Vaccaro](https://unige.it/staff/cerca.php?cognome=Luis%20Ramon%20Vaccaro)
 * [Andrea Valenza](https://csec.it/people/andrea_valenza)
 
