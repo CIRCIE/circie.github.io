@@ -9,7 +9,7 @@ title: Projects
 
 # Research Projects
 
-- [“Energia 2020”](http://www.energia2020.unige.it/en/home/): an innovative project started in 2011 concerning the Smart City & Sustainable Energy topics. It has been conceived, designed and developed by the University of Genoa with the final goal to make the Savona Campus a Living Lab of the City of the Future.
+- [“Energia 2020”](http://www.energia2020.unige.it/en/home/): an innovative project started in 2011 concerning the Smart City & Sustainable Energy topics. It has been conceived, designed and developed by the University of Genova with the final goal to make the Savona Campus a Living Lab of the City of the Future.
 
 It is based on the following main actions:
    - [Smart Polygeneration Microgrid](http://www.energia2020.unige.it/en/spm/) (SPM): in operation since February 2014, it is an "intelligent” & sustainable microgrid feeding the electrical and the thermal loads of the Campus
