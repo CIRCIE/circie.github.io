@@ -17,3 +17,4 @@ CIRCIE is a joint initiative of
 of the [University of Genova](https://www.unige.it).
 
 
+New! [Principi, Linee Guida e Good Practices per la gestione della Cyber Security, Resilienza e Business Continuity degli Operatori Elettrici](LINEE_GUIDA_CYBER_ELETTRICO.pdf)
